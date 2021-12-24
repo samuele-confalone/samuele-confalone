@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @samuele-confalone
+
+samuele-confalone/samuele-confalone is a special repository: its README.md will appear on your profile!
+
 - 👀 I’m interested in **statistics**.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning **R**, **Excel**.
+- 💞️ Currently, I’m **not** looking for collaborations.
+- 📫 How to reach me **s.confalone1998@gmail.com**
 
 <!---
 samuele-confalone/samuele-confalone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
