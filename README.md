@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @samuele-confalone
-
-samuele-confalone/samuele-confalone is a special repository: its README.md will appear on your profile!
-
 - 👀 I’m interested in **statistics**.
 - 🌱 I’m currently learning **R**, **Excel**.
 - 💞️ Currently, I’m **not** looking for collaborations.
